@@ -10,9 +10,9 @@ import com.mini.test.DivideUtils;
 import junit.framework.TestCase;
 
 /**
- * @author 
- * @createdOn 2019年1月9日
- * @company 广州广之旅国际旅行社股份有限公司
+ * @author Billy Liu
+ * @createdOn 2019年5月11日
+ * @company 
  *
  */
 public class DivideTest extends TestCase{
