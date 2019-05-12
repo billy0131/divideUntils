@@ -34,7 +34,7 @@ public class DivideUtils {
 	 * 
 	 * @param i
 	 * @param isContain 是否包含
-	 * @param isMoreCondition
+	 * @param isMoreCondition 是否需要除以3或者除以5等2个以上的条件
 	 * @return
 	 */
 	public static String getNameByNumType(int i,boolean isContain,boolean isMoreCondition,Integer onlyPrintNum){
